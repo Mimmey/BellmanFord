@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fd95c0d-7cd0-4101-9fdd-617572683029" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CnIY6DJukxuzCklJZoJyblUusU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/JavaIFMO" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode834" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd95c0d-7cd0-4101-9fdd-617572683029" name="Default Changelist" comment="" />
+      <created>1659431967363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659431967363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1659521784884">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/67.0.1299.768@67.0.1299.768" timestamp="1659521784884" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1659521784884">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/67.0.1299.768@67.0.1299.768" timestamp="1659521784884" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1659521784883">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/67.0.1299.768@67.0.1299.768" timestamp="1659521784883" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1659521784884">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/67.0.1299.768@67.0.1299.768" timestamp="1659521784884" />
+    <state x="296" y="127" key="IDE.errors.dialog" timestamp="1659521534178">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="296" y="127" key="IDE.errors.dialog/67.0.1299.768@67.0.1299.768" timestamp="1659521534178" />
+    <state x="217" y="0" key="SettingsEditor" timestamp="1659521608410">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="217" y="0" key="SettingsEditor/67.0.1299.768@67.0.1299.768" timestamp="1659521608410" />
+    <state x="373" y="172" key="run.anything.popup" timestamp="1659521413687">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="373" y="172" key="run.anything.popup/67.0.1299.768@67.0.1299.768" timestamp="1659521413687" />
+  </component>
+</project>
